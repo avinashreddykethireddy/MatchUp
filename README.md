@@ -1,9 +1,20 @@
 # MatchUp
-
 # To install the required dependencies
-* ```npm install ```
+* ```npm install```
+
+****************************************************************
+   *MongoDB and Firebase Setup and Credentials are Required*
+****************************************************************
+              *Redis Installation is required*
+****************************************************************
 
 # To start the server
-* ```npm run dev```
-* The server will be listen at http://localhost:3000
+* ```npm start```
+* The server will be listen at http://localhost:5000
+
+# To run tests
+* ```npm run test```
+
+
+
 
