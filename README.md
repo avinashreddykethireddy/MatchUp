@@ -1,5 +1,4 @@
-# MatchUp - Group 13
-
+# MatchUp
 # To install the required dependencies
 * ```npm install```
 
